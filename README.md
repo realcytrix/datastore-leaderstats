@@ -1,2 +1,4 @@
-# datastore-leaderstats
-A simple leaderstats script which saves your player's stats.
+# Thanks For Visting!
+
+**To anyone new to making roblox games, feel free to use this simple script which
+is a automatic saving leaderstats which should be self-explantory.**
